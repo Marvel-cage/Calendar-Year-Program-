@@ -22,7 +22,7 @@ if year % 400 == 0 or (year % 4 == 0 and year % 100 != 0):
 1. Download `Calendar_Year_Program.py`
 2. Make sure Python is installed
 3. Run:
-python Calendar_Year_Programpy
+python Calendar_Year_Program.py
 
 📱 Built With
 - Python 3
